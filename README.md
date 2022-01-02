@@ -3,6 +3,7 @@
 <div>
 <a href="https://www.instagram.com/welton.araujo2014/"><img src="https://img.shields.io/static/v1?color=blue&label=Instagram&logo=Instagram&logoColor=black&style=for-the-badge&message=Seguir"></a>
 <a href="https://www.linkedin.com/in/welton-rodrigues-frontend/"><img src="https://img.shields.io/static/v1?color=blue&label=Linkedin&logo=Linkedin&logoColor=black&style=for-the-badge&message=Conectar"></a>
+<a href="https://twitter.com/WeltonDev95"><img src="https://img.shields.io/static/v1?color=blue&label=Twitter&logo=Twitter&logoColor=black&style=for-the-badge&message=Seguir"></a>
 </div>
   <div>
    <img src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
