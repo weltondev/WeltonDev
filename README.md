@@ -9,7 +9,7 @@
    <img src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador" style="border-radius: 5px">
    
    
-<p align="left">👦 Tenho 27 anos e atualmente estou me dedicando aos estudos de Javascript, NodeJs e MySql<br>
+<p align="left">👦 Tenho 27 anos e atualmente estou me dedicando aos estudos de Javascript, NodeJs, Express e MySql<br>
   👏 Seja bem-vindo(a) ao meu perfil.<br>
   <a href="https://weltondev.vercel.app/">📒 Portifólio</a>
 </p>
