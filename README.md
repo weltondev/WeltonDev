@@ -39,7 +39,7 @@
 
 </div>
 <div>
-  <h2>Ferramentas</h2>
+  <h2>Ferramentas 🔧</h2>
   <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -56,12 +56,15 @@
 </div>
 
 <div>
-  <h2>Projetos</h2>
+  <h2>Projetos 💪</h2>
   <div align="center">
   <table>
    <thead>
+     
    <tr>
-   <td colspan='4'><p align='center'><b>GAMA EXPERIENCE X41</b></p></td>
+   <td colspan='4'><p align='center'>
+   <b>GAMA EXPERIENCE X41</b>
+   <img width="16px" src="https://gama.academy/gama-logo.png"></p></td>
    </tr>
    </thead>
    <tbody>
@@ -71,7 +74,7 @@
    <td><p align='center'><b>Tecnologias</b></p></td>
    <td><p align='center'><b>Descrição</b></p></td>
    </tr>
-   <!- ##### OMMA #### -!> 
+
    <tr>
    <td><p align='center'>Omma - Restaurante</p></td>
    <td><p align='center'>
@@ -82,7 +85,7 @@
    <td><p align='center'>HTML, CSS.</p></td>
    <td><p align='justify'>Responsividade, flex-box.</p></td>
    </tr>
-      <!- ##### DIN DIN FINANCAS #### -!> 
+
    <tr>
    <td><p align='center'>Din Din - Finanças</p></td>
    <td>
@@ -94,8 +97,8 @@
    <td><p align='center'>HTML, CSS.</p></td>
    <td><p align='justify'>Responsividade, Acessibilidade, Otimização SEO, Git e GitHub.</p></td>
    </tr>
-      <!- ##### SOUND GARDEN #### -!> 
-    <tr>
+
+   <tr>
    <td><p align='center'>Sound Garden</p></td>
    <td>
    <p align='center'>
@@ -107,8 +110,8 @@
    <td><p align='justify'>Promisses, Async, Await, Callback,Responsividade,Git e GitHub.</p></td>
    </tr>
    
-         <!- ##### LA VIE #### -!> 
-    <tr>
+
+   <tr>
    <td><p align='center'>La Vie</p></td>
    <td>
    <p align='center'>
@@ -119,8 +122,8 @@
    <td><p align='justify'>API REST, Express, Sequelize, JWT.</p></td>
    </tr>
    
-            <!- ##### PARROT #### -!> 
-    <tr>
+
+   <tr>
    <td><p align='center'>Parrot</p></td>
    <td>
    <p align='center'>
@@ -131,8 +134,7 @@
    <td><p align='justify'>API REST, Express, Sequelize, JWT.</p></td>
    </tr>
    
-               <!- ##### FEIRA DA REPÚBLICA #### -!> 
-    <tr>
+   <tr>
    <td><p align='center'>Feira da República</p></td>
    <td>
    <p align='center'>
