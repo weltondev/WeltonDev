@@ -1,4 +1,4 @@
-
+<!--
 <h1>Welton Rodrigues 👋 <br>⠀⠀Desenvolvedor Back-End Jr!<span></h1>
 <div>
 <a href="https://www.linkedin.com/in/welton-dev/"><img src="https://camo.githubusercontent.com/e8e6adebdbef916c9c8d8ef1bbadadedd5768866165fb033f5721d89365a6ebe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f6c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765"></a>
@@ -54,4 +54,97 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weltondev&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
+--!>
+<div>
+  <h2>Projetos</h2>
+  <div align="center">
+  <table>
+   <thead>
+   <tr>
+   <td colspan='4'><p align='center'><b>GAMA EXPERIENCE X41</b></p></td>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td><p align='center'><b>Projeto</b></p></td>
+   <td><p align='center'><b>Repositório</b></p></td>
+   <td><p align='center'><b>Tecnologias</b></p></td>
+   <td><p align='center'><b>Descrição</b></p></td>
+   </tr>
+   <!- ##### OMMA #### -!> 
+   <tr>
+   <td><p align='center'>Omma - Restaurante</p></td>
+   <td><p align='center'>
+   <a href="https://weltondev.github.io/Omma-Receitas/" target="_blank">Página</a> 
+   <a href="https://github.com/WeltonDev/Omma-Receitas" target="_blank">Repositório</a>
+   </p>
+   </td>
+   <td><p align='center'>HTML, CSS.</p></td>
+   <td><p align='justify'>Responsividade, flex-box.</p></td>
+   </tr>
+      <!- ##### DIN DIN FINANCAS #### -!> 
+   <tr>
+   <td><p align='center'>Din Din - Finanças</p></td>
+   <td>
+   <p align='center'>
+   <a href="https://weltondev.github.io/din-din-project/" target="_blank">Página</a>
+   <a href="https://github.com/WeltonDev/din-din-project" target="_blank">Repositório</a>
+   </p>
+   </td>
+   <td><p align='center'>HTML, CSS.</p></td>
+   <td><p align='justify'>Responsividade, Acessibilidade, Otimização SEO, Git e GitHub.</p></td>
+   </tr>
+      <!- ##### SOUND GARDEN #### -!> 
+    <tr>
+   <td><p align='center'>Sound Garden</p></td>
+   <td>
+   <p align='center'>
+   <a href="https://weltondev.github.io/soundgarden-front/" target="_blank">Página</a>
+   <a href="https://github.com/WeltonDev/soundgarden-front" target="_blank">Repositório</a>
+   </p>
+   </td>
+   <td><p align='center'>Javascript, HTML, CSS.</p></td>
+   <td><p align='justify'>Promisses, Async, Await, Callback,Responsividade,Git e GitHub.</p></td>
+   </tr>
+   
+         <!- ##### LA VIE #### -!> 
+    <tr>
+   <td><p align='center'>La Vie</p></td>
+   <td>
+   <p align='center'>
+   <a href="https://github.com/WeltonDev/projeto-la-vie" target="_blank">Repositório</a>
+   </p>
+   </td>
+   <td><p align='center'>Javascript, Node.js, MySQL.</p></td>
+   <td><p align='justify'>API REST, Express, Sequelize, JWT.</p></td>
+   </tr>
+   
+            <!- ##### PARROT #### -!> 
+    <tr>
+   <td><p align='center'>Parrot</p></td>
+   <td>
+   <p align='center'>
+   <a href="https://github.com/WeltonDev/Parrot" target="_blank">Repositório</a>
+   </p>
+   </td>
+   <td><p align='center'>Javascript, Node.js, React, MySQL.</p></td>
+   <td><p align='justify'>API REST, Express, Sequelize, JWT.</p></td>
+   </tr>
+   
+               <!- ##### FEIRA DA REPÚBLICA #### -!> 
+    <tr>
+   <td><p align='center'>Feira da República</p></td>
+   <td>
+   <p align='center'>
+   <a href="https://github.com/WeltonDev/feira-republica-xpt" target="_blank">Repositório</a>
+   </p>
+   </td>
+   <td><p align='center'>Javascript, Node.js, React, MySQL.</p></td>
+   <td><p align='justify'>API REST, Express, Sequelize, Jets, Migrations, Seeders, JWT, Styled Components e Redux.</p></td>
+   </tr>
+   
+   </tbody>
+  </table>
+  </div>
+   </div>
   
