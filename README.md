@@ -63,7 +63,7 @@
      
    <tr>
    <td colspan='4'><p align='center'>
-   <b>GAMA EXPERIENCE X41</b>
+   <b>GAMA EXPERIENCE XP41</b>
    <img width="16px" src="https://gama.academy/gama-logo.png"></p></td>
    </tr>
    </thead>
