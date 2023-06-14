@@ -54,7 +54,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weltondev&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/weltondev/count.svg?"  />
+</div>
 
+###
 <div>
   <h2>Projetos 💪</h2>
   <div align="center">
